@@ -84,6 +84,9 @@ vim .git/config
 ## Machine Learning
 * [100 Days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
+## Database
+* [How to install Mysql on Mac](https://www.youtube.com/watch?v=jzvsotmNrK8)
+
 ## Media
 * [Hack the media (influence?) - what do you mean?](https://github.com/nemild/hack-the-media)
 
